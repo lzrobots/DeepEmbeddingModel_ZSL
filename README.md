@@ -9,8 +9,11 @@ Download data from [here](http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/data.zip) 
 
 # Run
 `AwA_attribute.py` will gives you ZSL performance on AwA with attribute.
+
 `AwA_wordvector.py` will gives you ZSL performance on AwA with wordvector.
+
 `AwA_fusion.py` will gives you ZSL performance on AwA with attribute and wordvector fusion.
+
 `CUB_attribute.py`will gives you ZSL performance on CUB with attribute.
 
 
