@@ -16,6 +16,8 @@ Download data from [here](http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/data.zip) 
 
 `CUB_attribute.py`will gives you ZSL performance on CUB with attribute.
 
+# GBU setting
+
 
 ## Citing
 
@@ -29,3 +31,4 @@ If you use this code in your research, please use the following BibTeX entry.
   year={2017}
 }
 ```
+# Reference
