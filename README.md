@@ -31,4 +31,9 @@ If you use this code in your research, please use the following BibTeX entry.
   year={2017}
 }
 ```
-# Reference
+
+## References
+
+- [1] [Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://arxiv.org/abs/1707.00600).
+  Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata.
+  arXiv, 2017.
