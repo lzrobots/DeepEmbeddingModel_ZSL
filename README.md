@@ -24,19 +24,19 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 
 `CUB1_GBU.py` will gives you ZSL and GZSL performance on CUB1 with attribute under GBU setting [1].
 
-|         |                 AwA1                  |                  CUB1                 |
-|         |   ZSL   |           GZSL              |   ZSL   |           GZSL              |
-| Model   |   T1    |    u    |    s    |    H    |   T1    |    u    |    s    |    H    |
-| DAP     |   44.1  |   0.0   |   88.7  |   0.0   |         |         |         |         |
-| CONSE   |   45.6  |   0.4   |   88.6  |   0.8   |         |         |         |         |
-| SSE     |   60.1  |   7.0   |   80.5  |   12.9  |         |         |         |         |
-| DEVISE  |   54.2  |   13.4  |   68.7  |   22.4  |         |         |         |         |
-| SJE     |   65.6  |   11.3  |   74.6  |   19.6  |         |         |         |         |
-| LATEM   |   55.1  |   7.3   |   71.7  |   13.3  |         |         |         |         |
-| ESZSL   |   58.2  |   6.6   |   75.6  |   12.1  |         |         |         |         |
-| ALE     |   59.9  |   16.8  |   76.1  |   27.5  |         |         |         |         |
-| SYNC    |   54.0  |   8.9   |   87.3  |   16.2  |         |         |         |         |
-| DEM (OURS) |      |         |         |         |         |         |         |         |
+|            |                 AwA1                  |                  CUB1                 |
+|            |   ZSL   |           GZSL              |   ZSL   |           GZSL              |
+| Model      |   T1    |    u    |    s    |    H    |   T1    |    u    |    s    |    H    |
+| DAP        |   44.1  |   0.0   |   88.7  |   0.0   |         |         |         |         |
+| CONSE      |   45.6  |   0.4   |   88.6  |   0.8   |         |         |         |         |
+| SSE        |   60.1  |   7.0   |   80.5  |   12.9  |         |         |         |         |
+| DEVISE     |   54.2  |   13.4  |   68.7  |   22.4  |         |         |         |         |
+| SJE        |   65.6  |   11.3  |   74.6  |   19.6  |         |         |         |         |
+| LATEM      |   55.1  |   7.3   |   71.7  |   13.3  |         |         |         |         |
+| ESZSL      |   58.2  |   6.6   |   75.6  |   12.1  |         |         |         |         |
+| ALE        |   59.9  |   16.8  |   76.1  |   27.5  |         |         |         |         |
+| SYNC       |   54.0  |   8.9   |   87.3  |   16.2  |         |         |         |         |
+| DEM (OURS) |         |         |         |         |         |         |         |         |
 
 
 
