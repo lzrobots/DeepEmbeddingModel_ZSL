@@ -17,6 +17,9 @@ Download data from [here](http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/data.zip) 
 `CUB_attribute.py`will gives you ZSL performance on CUB with attribute.
 
 # GBU setting
+
+ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU split, averaged per class accuracy.
+
 `AwA1_GBU.py` will gives you ZSL and GZSL performance on AwA1 with attribute under GBU setting [1].
 
 `CUB1_GBU.py` will gives you ZSL and GZSL performance on CUB1 with attribute under GBU setting [1].
