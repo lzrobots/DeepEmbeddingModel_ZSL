@@ -113,7 +113,7 @@ loss_a += 1e-2 * regularizers_a
 train_step = tf.train.AdamOptimizer(0.00001).minimize(loss_a)
 
 sess = tf.Session()
-sess.run(tf.initialize_all_variables())
+sess.run(tf.global_variables_initializer())
 
 
 # # Run
