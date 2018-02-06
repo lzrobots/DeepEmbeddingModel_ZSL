@@ -46,7 +46,6 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
  |  one  | two, and a half | three and a quarter |       |       |
 | ----: | :-------------: | :-----------------: | :---: | :---- |
 |  four |      five       |                     |       | six   |
-|||||
 |  hell                  ||       hath no       | fury  |       |
 
 
