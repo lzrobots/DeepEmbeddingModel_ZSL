@@ -43,10 +43,17 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 | SAE        |   53.0  |   1.8   |   77.1  |   3.5   |   33.3  |   7.8   |   54.0  |   13.6  |
 | ** DEM (OURS)**  |         |         |         |         |         |         |         |         |
 
- |   1   |   2   |   3   |   4   |   5   |
- | :---: | :---: | :---: | :---: | :---: |
- |  one         ||  two                |||
 
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
 
 
 ## Citing
