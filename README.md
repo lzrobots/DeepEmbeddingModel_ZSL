@@ -39,7 +39,7 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 | ALE [9]       |   59.9  |   16.8  |   76.1  |   27.5  |   54.9  |   23.7  |   62.8  |   34.4  |
 | SYNC [10]      |   54.0  |   8.9   |   87.3  |   16.2  |   55.6  |   11.5  |   70.9  |   19.8  |
 | SAE [11]       |   53.0  |   1.8   |   77.1  |   3.5   |   33.3  |   7.8   |   54.0  |   13.6  |
-| ** DEM (OURS)**  |         |         |         |         |         |         |         |         |
+| **DEM (OURS)**  |         |         |         |         |         |         |         |         |
 
 
 
