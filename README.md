@@ -27,7 +27,7 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 
 
 
-| Model      |   T1    |    u    |    s    |    H    |   T1    |    u    |    s    |    H    |
+| Model      |   AwA1 T1    |    u    |    s    |    H    |   CUB1 T1    |    u    |    s    |    H    |
 |------------|---------|---------|---------|---------|---------|---------|---------|---------|
 | DAP [2]      |   44.1  |   0.0   |   **88.7**  |   0.0   |   40.0  |   1.7   |   67.9  |   3.3   |
 | CONSE [3]     |   45.6  |   0.4   |   88.6  |   0.8   |   34.3  |   1.6   |   72.2  |   3.1   |
