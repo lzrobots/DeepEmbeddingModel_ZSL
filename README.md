@@ -25,10 +25,8 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 `CUB1_GBU.py` will gives you ZSL and GZSL performance on CUB1 with attribute under GBU setting [1].
 
 
-|------------|---------|-----------------------------|---------|-----------------------------|
-|            |   ZSL   |           GZSL              |   ZSL   |           GZSL              |
 
-|            |                 AwA1                  ||                   CUB1              |||
+
 | Model      |   T1    |    u    |    s    |    H    |   T1    |    u    |    s    |    H    |
 |------------|---------|---------|---------|---------|---------|---------|---------|---------|
 | DAP        |   44.1  |   0.0   |   88.7  |   0.0   |   40.0  |   1.7   |   67.9  |   3.3   |
@@ -44,16 +42,6 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 | ** DEM (OURS)**  |         |         |         |         |         |         |         |         |
 
 
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
 
 
 ## Citing
