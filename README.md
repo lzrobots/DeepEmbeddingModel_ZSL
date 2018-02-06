@@ -43,6 +43,12 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 | SAE        |   53.0  |   1.8   |   77.1  |   3.5   |   33.3  |   7.8   |   54.0  |   13.6  |
 | ** DEM (OURS)**  |         |         |         |         |         |         |         |         |
 
+|||:Header 1|:Header 2|:Header 3|:Header 4
+|| Row 1 .. |  |  |  
+|| Row 2 .. |  Test
+|| Row 3 .. |  |  |  
+|| Row 4 .. |  |  |  
+
 
 ## Citing
 
