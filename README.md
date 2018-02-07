@@ -42,7 +42,7 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 | **DEM (OURS)** | **68.44** | **32.82** | 84.71  |  **47.31** | 51.71  |   19.55  |  57.85  |  29.22  |
 
 
-## Other implementation
+# PyTorch implementation
 [PyTorch Version](https://github.com/dragen1860/DeepEmbeddingModel_ZSL-Pytorch)
 
 ## Citing
