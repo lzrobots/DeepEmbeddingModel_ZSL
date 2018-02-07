@@ -2,6 +2,7 @@ import tensorflow as tf
 import numpy as np
 import scipy.io as sio
 import kNN
+import kNN_cosine
 from numpy import *   
 from sklearn.metrics import accuracy_score
 
@@ -21,7 +22,7 @@ def compute_accuracy(test_att, test_visual, test_id, test_label):
     test_label = np.squeeze(np.asarray(test_label))
     test_label = test_label.astype("float32")
     for i in range(test_visual.shape[0]):  # CUB 2933
-        outputLabel = kNN.kNNClassify(test_visual[i,:], att_pre, test_id, 1) 
+        outputLabel = kNN.kNNClassify(test_visual[i,:], att_pre, test_id, 1)
         outpre[i] = outputLabel
     #compute averaged per class accuracy
     outpre = np.array(outpre, dtype='int')
@@ -85,13 +86,13 @@ visual_features = tf.placeholder(tf.float32, [None, 2048])
 
 
 # # Network
-# AwA 85 1024 2048 ReLu, 1e-3 * regularisers, 64 batch, 0.0001 Adam
-W_left_a1 = weight_variable([85, 1024])
-b_left_a1 = bias_variable([1024])
+# AwA 85 1600 2048 ReLu, 1e-3 * regularisers, 64 batch, 0.0001 Adam
+W_left_a1 = weight_variable([85, 1600])
+b_left_a1 = bias_variable([1600])
 left_a1 = tf.nn.relu(tf.matmul(att_features, W_left_a1) + b_left_a1)
 
 
-W_left_a2 = weight_variable([1024, 2048])
+W_left_a2 = weight_variable([1600, 2048])
 b_left_a2 = bias_variable([2048])
 left_a2 = tf.nn.relu(tf.matmul(left_a1, W_left_a2) + b_left_a2)
 
