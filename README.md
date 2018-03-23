@@ -8,27 +8,27 @@ Tensorflow code for CVPR 2017 paper: [Learning a Deep Embedding Model for Zero-S
 Download data from [here](http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/data.zip) and unzip it `unzip data.zip`.
 
 # Run
-`AwA_attribute.py` will gives you ZSL performance on AwA with attribute.
+`AwA_attribute.py` will give you ZSL performance on AwA with attribute.
 
-`AwA_wordvector.py` will gives you ZSL performance on AwA with wordvector.
+`AwA_wordvector.py` will give you ZSL performance on AwA with wordvector.
 
-`AwA_fusion.py` will gives you ZSL performance on AwA with attribute and wordvector fusion.
+`AwA_fusion.py` will give you ZSL performance on AwA with attribute and wordvector fusion.
 
-`CUB_attribute.py`will gives you ZSL performance on CUB with attribute.
+`CUB_attribute.py`will give you ZSL performance on CUB with attribute.
 
 # GBU setting
 
 ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU split, averaged per class accuracy.
 
-`AwA1_GBU.py` will gives you ZSL and GZSL performance on AwA1 with attribute under GBU setting [1].
+`AwA1_GBU.py` will give you ZSL and GZSL performance on AwA1 with attribute under GBU setting [1].
 
-`AwA2_GBU.py` will gives you ZSL and GZSL performance on AwA2 with attribute under GBU setting [1].
+`AwA2_GBU.py` will give you ZSL and GZSL performance on AwA2 with attribute under GBU setting [1].
 
-`CUB1_GBU.py` will gives you ZSL and GZSL performance on CUB with attribute under GBU setting [1].
+`CUB1_GBU.py` will give you ZSL and GZSL performance on CUB with attribute under GBU setting [1].
 
-`aPY_GBU.py` will gives you ZSL and GZSL performance on aPY with attribute under GBU setting [1].
+`aPY_GBU.py` will give you ZSL and GZSL performance on aPY with attribute under GBU setting [1].
 
-`SUN_GBU.py` will gives you ZSL and GZSL performance on SUN with attribute under GBU setting [1].
+`SUN_GBU.py` will give you ZSL and GZSL performance on SUN with attribute under GBU setting [1].
 
 
 
