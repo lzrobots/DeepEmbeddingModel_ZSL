@@ -3,6 +3,9 @@ Tensorflow code for CVPR 2017 paper: [Learning a Deep Embedding Model for Zero-S
 
 [Li Zhang](http://www.robots.ox.ac.uk/~lz/)
 
+# Requirement
+Python 2.7
+Tensorflow > 1.0
 
 # Data
 Download data from [here](http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/data.zip) and unzip it `unzip data.zip`.
