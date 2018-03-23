@@ -22,7 +22,14 @@ ZSL and GZSL performance evaluated under GBU setting [1]: ResNet feature, GBU sp
 
 `AwA1_GBU.py` will gives you ZSL and GZSL performance on AwA1 with attribute under GBU setting [1].
 
-`CUB1_GBU.py` will gives you ZSL and GZSL performance on CUB1 with attribute under GBU setting [1].
+`AwA2_GBU.py` will gives you ZSL and GZSL performance on AwA2 with attribute under GBU setting [1].
+
+`CUB1_GBU.py` will gives you ZSL and GZSL performance on CUB with attribute under GBU setting [1].
+
+`aPY_GBU.py` will gives you ZSL and GZSL performance on aPY with attribute under GBU setting [1].
+
+`SUN_GBU.py` will gives you ZSL and GZSL performance on SUN with attribute under GBU setting [1].
+
 
 
 
