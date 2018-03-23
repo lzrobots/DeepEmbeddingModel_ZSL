@@ -5,6 +5,7 @@ Tensorflow code for CVPR 2017 paper: [Learning a Deep Embedding Model for Zero-S
 
 # Requirement
 Python 2.7
+
 Tensorflow > 1.0
 
 # Data
