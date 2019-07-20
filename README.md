@@ -1,5 +1,5 @@
 # DeepEmbeddingModel_ZSL
-Tensorflow code for CVPR 2017 paper: [Learning a Deep Embedding Model for Zero-Shot Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_a_Deep_CVPR_2017_paper.pdf)
+Tensorflow code for CVPR 2017 paper: [Learning a Deep Embedding Model for Zero-Shot Learning](https://arxiv.org/abs/1611.05088)
 
 [Li Zhang](http://www.robots.ox.ac.uk/~lz/)
 
